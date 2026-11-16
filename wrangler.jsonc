@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "gentle-wave-a8c7",
+  "compatibility_date": "2026-11-16",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  }
+}
